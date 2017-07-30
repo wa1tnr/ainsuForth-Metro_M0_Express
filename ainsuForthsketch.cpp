@@ -200,7 +200,8 @@ void setup(void) {
   pOldHere = pHere;
   
   // Serial.print("\n warm boot message - early bird.  //  Gemma M0 29 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
-  Serial.print("\n warm boot message - early bird.  //  Adafruit CPlay Express (CPX)\r\n      snapshot 29 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
+  // Serial.print("\n warm boot message - early bird.  //  Adafruit CPlay Express (CPX)\r\n      snapshot 29 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
+  Serial.print("\n warm boot message - early bird.  //  Adafruit Metro M0 Express\r\n      snapshot 30 Jul 2017\r\n          type 'warm' to reboot"); // instant confirmation
 
   // Serial.println("\r\nainsuForth -- main dev -- SEEN.\r\n    KELEFICOO  21:10z or later.\r\n");
 
